@@ -78,10 +78,14 @@ This is the main screen where the game is played. It includes the following comp
 ## 📸 Screenshots
 
 ### 🟢 Start Game Page
-![Start Game Screenshot](./public/Images/screenshot1.png)
+![Start Game Screenshot](https://github.com/rudrakshtyagi/diceGame/blob/main/public/Images/screenshot1.png)
 
 ### 🎮 GamePlay Page
-![Gameplay Screenshot](./public/Images/screenshot3.png)
+![Gameplay Screenshot](https://github.com/rudrakshtyagi/diceGame/blob/main/public/Images/dice_3.png)
+
+
+### 🎮 Rules
+![Gameplay Screenshot](https://github.com/rudrakshtyagi/diceGame/blob/main/public/Images/screenshot2.png)
 
 
 

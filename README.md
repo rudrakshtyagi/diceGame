@@ -78,20 +78,22 @@ This is the main screen where the game is played. It includes the following comp
 ## 📸 Screenshots
 
 ### 🟢 Start Game Page
-![Start Game Screenshot](https://github.com/rudrakshtyagi/diceGame/blob/main/public/Images/screenshot1.png)
+![Start Game Screenshot](https://raw.githubusercontent.com/rudrakshtyagi/diceGame/main/public/Images/screenshot1.png
+)
 
 ### 🎮 GamePlay Page
-![Gameplay Screenshot](https://github.com/rudrakshtyagi/diceGame/blob/main/public/Images/dice_3.png)
+![Gameplay Screenshot](https://raw.githubusercontent.com/rudrakshtyagi/diceGame/main/public/Images/screenshot3.png)
 
 
 ### 🎮 Rules
-![Gameplay Screenshot](https://github.com/rudrakshtyagi/diceGame/blob/main/public/Images/screenshot2.png)
+![Gameplay Screenshot](https://raw.githubusercontent.com/rudrakshtyagi/diceGame/main/public/Images/screenshot2.png)
 
 
 
 
-🌐 Live Demo
-🔗 Click Here to Play
+## 🌐 Live Demo
+
+🚀 **Play it Live:** [https://dicegame779.netlify.app](https://dicegame779.netlify.app)
 
 
 
